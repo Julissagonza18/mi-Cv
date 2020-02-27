@@ -1,0 +1,27 @@
+*{
+	margin:15;
+	padding:1;
+	box-sizing:border-box;
+	}
+       body{  
+       	height:1300px;
+       	background-color:#ffc107;
+       	  }
+       	  div{  
+       	  	background-color:#fafafa;
+       	  	padding: 12px;
+       	  	width:95%;
+       	  	margin:0 auto;
+       	  	  }
+       	  	  .titulo{  
+       	  	  	background-color:#ffc107;
+       	  	  	padding: 5px;
+       	  	  	border-radius: 20px;
+       	  	  	font-weight: bold;
+       	  	  	  }
+       	  	  	  .contenido{ 
+       	  	  	background-color:#ffd54f;
+       	  	  	padding: 5px;
+       	  	  	border-radius: 20px;
+       	  	  	font-weight: bold;
+
